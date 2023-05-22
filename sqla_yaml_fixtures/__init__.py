@@ -5,7 +5,7 @@ import sqlalchemy
 from sqlalchemy.orm.relationships import RelationshipProperty
 
 
-__version__ = (1, 1, 0)
+__version__ = (1, 1, 1)
 
 
 def from_registry(Base, model_name):
